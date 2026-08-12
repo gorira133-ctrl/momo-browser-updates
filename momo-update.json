@@ -1,9 +1,9 @@
 {
   "packageName": "com.personalos.sensor",
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/gorira133-ctrl/momo-browser-updates/releases/download/v2.1.0/momo-arm64-v8a-debug.apk",
-  "sha256": "1f19c4ee28d0656284a422c95c029a6bb80efe5b672160a67d62751e2a0e3f75",
-  "releaseNotes": "歩数チケット制、ブラウザ起動時の歩数チャレンジ、更新通信リトライ",
-  "publishedAt": "2026-08-11T00:00:00Z"
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/gorira133-ctrl/momo-browser-updates/releases/download/v2.2.0/momo-arm64-v8a-debug.apk",
+  "sha256": "8cf0f414b48ae2184fc07b53f5f80f5cf8f5271fea38a9e3dee0ce560f32f523",
+  "releaseNotes": "Google検索時のURLバー表示修正、Pet設定、MOMOブラウザアイコン更新",
+  "publishedAt": "2026-08-13T00:00:00Z"
 }
