@@ -1,9 +1,9 @@
 {
   "packageName": "com.personalos.sensor",
-  "versionCode": 14,
-  "versionName": "2.3",
-  "apkUrl": "https://github.com/gorira133-ctrl/momo-browser-updates/releases/download/v2.3.0/momo-arm64-v8a-debug.apk",
-  "sha256": "ddbbb76623a8e629920292e6c15ae2f4b783972712c3400e99be349a64ca0448",
-  "releaseNotes": "Google Chrome型URLバー、Web表示との重なり解消、スクロール時の表示安定化",
-  "publishedAt": "2026-09-03T14:41:35Z"
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/gorira133-ctrl/momo-browser-updates/releases/download/v2.4.0/momo-arm64-v8a-debug.apk",
+  "sha256": "9870942ee89a156a4376491e13ac9b7377a6b47cc55b1d9cf531377412e97bda",
+  "releaseNotes": "タブ保持・ダウンロード管理・ページ内検索・サイト権限・追跡防止を改善。Pet・記憶・人格機能は継続。",
+  "publishedAt": "2026-09-05T00:37:20Z"
 }
