@@ -1,9 +1,1 @@
-{
-  "packageName": "com.personalos.sensor",
-  "versionCode": 18,
-  "versionName": "2.5.0",
-  "apkUrl": "https://github.com/gorira133-ctrl/momo-browser-updates/releases/download/v2.5.0/app-arm64-v8a-debug.apk",
-  "sha256": "0993be768751fb9a46aa077afcd119257943d4c67705d084dbf4345754357736",
-  "releaseNotes": "秘書・ブラウザの2導線、共通会話履歴、OpenCode Go / PC MOMO provider選択、ページ添付確認、Private境界を追加。既存のPet・ブラウザ安全機能を維持。",
-  "publishedAt": "2026-09-12T03:44:47Z"
-}
+{"packageName":"com.personalos.sensor","versionCode":19,"versionName":"2.5.1","apkUrl":"https://github.com/gorira133-ctrl/momo-browser-updates/releases/download/v2.5.1/app-arm64-v8a-debug.apk","sha256":"a4597a82c8e93d6139b3ba2a12f0440173984c5e72a449d2a061a2f266315c71","releaseNotes":"アプリ内更新導線をv2.5.1へ更新。AIチャット、検索、Xフィルター、Brave相当の広告ブロック設定を維持。","publishedAt":"2026-09-21T06:13:09Z"}
